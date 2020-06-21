@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  background-color: #899BA2;
+}
+
+.calc {
+  width: 225px;
+  background-color: #3B4655;
+}
+
+.touch {
+  width: 50px;
+  height: 50px;
+  font-size: 25px;
+  margin: 2px;
+  cursor: pointer;
+  background: #384351;
+  border: none;
+  color: white;
+}
+
+.zero {
+  width: 106px;
+}
+
+.color {
+  background: #273c75;
+}
+
+.view {
+  margin: 5px;
+  width: 207px;
+  padding: 5px;
+  border: none;
+  cursor: default;
+  text-align: right;
+}
+
+.textview {
+  height: 20px;
+  color: #727C8A;
+  font-size: 15px;
+  background: #3B4655;
+}
+
+.calcview {
+  height: 40px;
+  font-size: 35px;
+  color: white;
+  background: #3B4655;
+}
