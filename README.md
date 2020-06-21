@@ -1,2 +1,2 @@
 # JavaScript
-All my javascript project
+All my JavasScript project
